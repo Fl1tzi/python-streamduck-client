@@ -1,3 +1,3 @@
-# python-streamduck-sdk
+# python-streamduck-client
 
-development a Streamduck Python SDK
+Development of a Streamduck Python Client to interact with the Daemon.
